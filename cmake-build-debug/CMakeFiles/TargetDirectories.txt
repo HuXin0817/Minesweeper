@@ -1,0 +1,5 @@
+C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/CMakeFiles/Minesweeper.dir
+C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/CMakeFiles/Minesweeper_autogen_timestamp_deps.dir
+C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/CMakeFiles/Minesweeper_autogen.dir

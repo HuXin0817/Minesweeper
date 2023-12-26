@@ -1,0 +1,26 @@
+# ninja log v5
+71	2723	7237447668344890	CMakeFiles/Minesweeper.dir/main.cpp.obj	25edd22bd637020f
+9	125	7240089731762346	Minesweeper_autogen/timestamp	a48aeebff676ed6c
+9	125	7240089731762346	Minesweeper_autogen/mocs_compilation.cpp	a48aeebff676ed6c
+128	3510	7240089765613057	CMakeFiles/Minesweeper.dir/GameInterface.cpp.obj	bf2a85dcd0f1e506
+9	125	7240089731762346	C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/Minesweeper_autogen/timestamp	a48aeebff676ed6c
+99	3211	7237301276439022	CMakeFiles/Minesweeper.dir/SettingInterface.cpp.obj	5384ca48c2ee81e3
+9	125	7240089731762346	C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/Minesweeper_autogen/mocs_compilation.cpp	a48aeebff676ed6c
+146	192	7237218061902393	CMakeFiles/Minesweeper.dir/Minesweeper_autogen/mocs_compilation.cpp.obj	660cc35b8546bc2a
+7	381	7243339620776983	build.ninja	288709bfe1188a9b
+3510	3936	7240089768275292	Minesweeper.exe	8e92ac47f6c58057
+3	111	7243339675341962	Minesweeper_autogen/timestamp	a48aeebff676ed6c
+3	111	7243339675341962	Minesweeper_autogen/mocs_compilation.cpp	a48aeebff676ed6c
+3	111	7243339675341962	C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/Minesweeper_autogen/timestamp	a48aeebff676ed6c
+3	111	7243339675341962	C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/Minesweeper_autogen/mocs_compilation.cpp	a48aeebff676ed6c
+111	166	7243339675887679	CMakeFiles/Minesweeper.dir/Minesweeper_autogen/mocs_compilation.cpp.obj	a8d293e5ea5214ed
+114	3419	7243339708419886	CMakeFiles/Minesweeper.dir/main.cpp.obj	ce2e26f4bfd8e024
+116	3482	7243339709041945	CMakeFiles/Minesweeper.dir/SettingInterface.cpp.obj	6b8928f0c988987a
+119	3816	7243339712323423	CMakeFiles/Minesweeper.dir/GameInterface.cpp.obj	447f24950f42cd47
+3816	4228	7243339714734954	Minesweeper.exe	c01e772891f96bd9
+7	140	7245795330801526	Minesweeper_autogen/timestamp	a48aeebff676ed6c
+7	140	7245795330801526	Minesweeper_autogen/mocs_compilation.cpp	a48aeebff676ed6c
+7	140	7245795330801526	C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/Minesweeper_autogen/timestamp	a48aeebff676ed6c
+7	140	7245795330801526	C:/Users/25936/Desktop/Project/ClionProject/Minesweeper/cmake-build-debug/Minesweeper_autogen/mocs_compilation.cpp	a48aeebff676ed6c
+141	3651	7245795365927971	CMakeFiles/Minesweeper.dir/main.cpp.obj	ce2e26f4bfd8e024
+3651	4079	7245795368691594	Minesweeper.exe	c01e772891f96bd9
